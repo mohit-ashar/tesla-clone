@@ -1,5 +1,5 @@
 # This project is a clone of the Tesla landing page made using React-redux and Styled Components
-
+## Check it out here: https://mashar-tesla-clone.netlify.app/
 ![image](https://user-images.githubusercontent.com/57294208/119506164-48896600-bd8b-11eb-9354-fdd9d792473e.png)
 
 ![image](https://user-images.githubusercontent.com/57294208/119506317-6ce54280-bd8b-11eb-863b-d6bda987751b.png)
